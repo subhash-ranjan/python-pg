@@ -1,1 +1,1 @@
-# python language learning playground
+# python language practice playground
